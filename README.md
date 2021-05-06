@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development!
+- 🌱 Software developer intern: Iteris Consultoria e Software
 
 - 📫 How to reach me: 
 -  Telegram: @ingridnantes
