@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Software developer intern: Iteris Consultoria e Software
+- 🌱 Software developer: Iteris Consultoria e Software
 
 - 📫 How to reach me: 
 -  Telegram: @ingridnantes
