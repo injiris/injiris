@@ -3,7 +3,7 @@
 - 🌱 Software developer: Iteris Consultoria e Software
 
 - 📫 How to reach me: 
--  Telegram: @ingridnantes
+-  Telegram: @injrid
 -  Whatsapp: +55 67 998878166
 -  linkedin: https://www.linkedin.com/in/ingridnantes/
    
