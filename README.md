@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Software developer: Iteris Consultoria e Software
+- 🌱 Software developer: Globant
 
 - 📫 How to reach me: 
 -  Telegram: @injrid
