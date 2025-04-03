@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Software developer: Globant
+- 🌱 Front-end developer
 
 - 📫 How to reach me: 
 -  Telegram: @injrid
